@@ -1,0 +1,87 @@
+.topnav {
+    background:  rgb(204, 204, 204);
+    height: 25%;
+    padding: 1em 0 1em 4em;
+}
+body {
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    font-size: .9em;
+    line-height: 1.6em
+}
+h1 {
+    color: rgb(204, 204, 204);
+    font-weight: 200;
+    font-size: 2.5em;
+
+}
+h3 {
+    color: rgb(107, 107, 107);
+    font-weight: 400;
+    letter-spacing: 3px;
+    color: rgb(2, 64, 75);
+
+}
+h5 {
+    color: rgb(216, 216, 216);
+
+}
+table {
+   margin-left: 40%;
+   margin-right: 40%;
+    
+}
+ul {
+    list-style: none;
+}
+ol {
+    list-style: none;
+}
+
+.container-1 {
+    height: 17.5em;
+    width: 100%;
+    background: rgb(2, 64, 75);
+    text-align: center;
+    padding: 4em 0;
+}
+.container-2 {
+    color: rgb(107, 107, 107);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    padding: 1em 0;
+}
+.container-3 {
+    color: rgb(107, 107, 107);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    padding:.-25em 0;
+   
+}
+.container-4 {
+    color: rgb(107, 107, 107);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.container-5 {
+    color: rgb(107, 107, 107);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.container-6 {
+    color: rgb(107, 107, 107);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+.container-7 {
+    color: rgb(107, 107, 107);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    padding: 0 0 3em 0;
+}
